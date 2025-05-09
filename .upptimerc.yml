@@ -1,18 +1,17 @@
-# Change these first
-owner: Eighthats  # Your GitHub username or org
-repo: upptime     # Your repo name
+owner: Eighthats
+repo: upptime
+
 sites:
   - name: Eight Hats Website
     url: https://eighthats.com
   - name: Client Dashboard
     url: https://dashboard.eighthats.com
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
-status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+status-website: "https://eighthats.github.io/upptime/"
+
+notifications:
+  slack:
+    webhookUrl: "https://hooks.slack.com/services/YOUR/SLACK/WEBHOOK"
   cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
