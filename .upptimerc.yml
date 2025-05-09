@@ -1,7 +1,6 @@
-th# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+# Change these first
+owner: Eighthats  # Your GitHub username or org
+repo: upptime     # Your repo name
 sites:
   - name: Eight Hats Website
     url: https://eighthats.com
