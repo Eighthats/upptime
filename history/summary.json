@@ -22,17 +22,17 @@
     "url": "https://dashboard.eighthats.com",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.eighthats.com.ico",
     "slug": "client-dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 215,
-    "timeWeek": 247,
-    "timeMonth": 294,
-    "timeYear": 300,
+    "time": 299,
+    "timeDay": 187,
+    "timeWeek": 236,
+    "timeMonth": 290,
+    "timeYear": 299,
     "dailyMinutesDown": {}
   }
 ]
